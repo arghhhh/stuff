@@ -1,6 +1,11 @@
 
 # Papers and Conference Appearances
 
+## Composable iterator processors applied to digital signal processing
+### [CAJUN November 20, 2024](https://github.com/arghhhh/julia-signals-systems/blob/main/doc/Julia%20CAJUN%20talk%2020%20Nov%202024.pdf)
+
+This was an updated version of the ORConf 2024 presentation, but aimed for a very different audience.  CAJUN is the Cambridge (MA,USA) Julia users meetup group and so this talk focused more on the Julia language aspects compared with hardware aspects.
+
 ## Digital Signal Processing: Modeling with Julia  
 ### [ORConf 2024](https://fossi-foundation.org/orconf/2024#digital-signal-processing-modeling-with-julia)
 
