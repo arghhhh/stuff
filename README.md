@@ -1,6 +1,12 @@
 
 # Papers and Conference Appearances
 
+## Modeling digital signal processing to confirm frequency response and performance
+### [Latch-Up 2025](https://fossi-foundation.org/latch-up/2025#modeling-digital-signal-processing-to-confirm-frequency-response-and-performance)
+
+More & better. To be presented in May 2025.
+
+
 ## Composable iterator processors applied to digital signal processing
 ### [CAJUN November 20, 2024](https://github.com/arghhhh/julia-signals-systems/blob/main/doc/Julia%20CAJUN%20talk%2020%20Nov%202024.pdf)
 
