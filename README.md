@@ -22,7 +22,7 @@ This used [riscv-formal](https://github.com/YosysHQ/riscv-formal) It was simulat
 ### [JuliaCon 2016](https://github.com/arghhhh/bint-juliacon2016)
 
 This is obsolete now - though the way I handled arbitrary length integers as a tuple of fixed length integers is still valid.
-A simpler version is at [julia-bints](https://github.com/arghhhh/julia-bints).
+A simpler version is at [julia-fixed-point](https://github.com/arghhhh/julia-fixed-point) in the file Bints.jl.
 
 ## Design and Evaluation of an Audio DAC With non-Uniformly Weighed Dynamic Element Matching 
 ### [AES Silicon for Audio conference](https://aes2.org/publications/elibrary-page/?id=10149)
