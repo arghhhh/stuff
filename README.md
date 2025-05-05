@@ -1,11 +1,15 @@
 
 # Papers and Conference Appearances
 
+## Fixed Point Numeric Types for Hardware Description
+### [Latch-Up 2025](https://fossi-foundation.org/latch-up/2025#fixed-point-numeric-types-for-hardware-description)
+
+Numeric types applicable for signal processing using custom datapaths where you care about correctness and minimal word lengths.
+
 ## Modeling digital signal processing to confirm frequency response and performance
 ### [Latch-Up 2025](https://fossi-foundation.org/latch-up/2025#modeling-digital-signal-processing-to-confirm-frequency-response-and-performance)
 
-More & better. To be presented in May 2025.
-
+Additional capability was added to enable transfer functions to be be computed directly for linear system blocks in cascade and in parallel. These are compared to the frequency response calculated from a time domain simulation using a swept sinusoid input and extracting the output signal level using weighted least squares.
 
 ## Composable iterator processors applied to digital signal processing
 ### [CAJUN November 20, 2024](https://github.com/arghhhh/julia-signals-systems/blob/main/doc/Julia%20CAJUN%20talk%2020%20Nov%202024.pdf)
